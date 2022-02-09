@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=viai957)](https://github.com/anuraghazra/github-readme-stats)" alt="python" width="60" height="60"/>
+<img src="https://www.python.org/static/img/python-logo.png" alt="python" width="60" height="60"/>
 
       
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
+<img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" alt="docker" width="45" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png" alt="pytorch" width="40" height="40"/> 
 
