@@ -30,13 +30,11 @@ Here are some ideas to get you started:
 - 🤔 I use daily ```.ipynb```,``` .py```, ```.model```
 - 🌱 I’m currently bootstrapping a startup
 - 💬 Talk to me about startup, python and silicon valley
-- 📝 I regulary write articles on [hashnode](https://hashnode.com/@viai) (previously on [medium](https://apoorvtyagi133.blogspot.com/))
+- 📝 I regulary write articles on [hashnode](https://hashnode.com/@viai) (previously on [medium](https://medium.com/vigneshyaadav/))
 
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
+<img src="[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=viai957)](https://github.com/anuraghazra/github-readme-stats)" alt="python" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
