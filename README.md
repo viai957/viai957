@@ -39,7 +39,7 @@ Here are some ideas to get you started:
       
 <img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" alt="docker" width="45" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png" alt="pytorch" width="40" height="40"/> 
+<img src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/profiler.png" alt="pytorch" width="40" height="40"/> 
 
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
