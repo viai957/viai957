@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=viai957&color=red)
 
 ### 🤵 About Me:
-- 🏦 I'm currently an UnderGrad tudent working for startup where i make machine learning and deep learnig models
+- 🏦 I'm currently an UnderGrad student working for startup where i make machine learning and deep learnig models
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.ipynb```,``` .py```, ```.model```
 - 🌱 I’m currently bootstrapping a startup
