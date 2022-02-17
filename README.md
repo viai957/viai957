@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-![](https://komarev.com/ghpvc/?username=viai957&color=red)*98
+![](https://komarev.com/ghpvc/?username=viai957&color=red)
 
 ### 🤵 About Me:
 - 🏦 I'm currently an UnderGrad student working for startup where i make machine learning and deep learnig models
