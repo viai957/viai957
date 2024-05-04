@@ -7,14 +7,11 @@
 ### 
 <!-- LIST:START -->
 ---
-I'm a Deep Learning aficionado with an interest in leveraging the power of algorithms and mathematics to solve realworld problems. Lately, it's been over a year since I immersed myself in the realm of Large Language Models (LLMs), a
-journey perhaps measured in light-years in the age of GenAI. I've been exploring every aspect of the technology stack
-from delving into the intricacies of low-level (PyTorch) implementation to orchestrating abstraction layers. My journey
-often takes me through the complex world of mathematics, where I aim to bring clarity to intricate ideas. Whether I'm
-building code from the ground up or refining algorithms in GitHub repositories, my focus is on demystifying these
-sophisticated models. Along the way, I'm always reminded of the fine line between science and art, recognizing that their
-successes owe as much to hard work as to fortunate discoveries. The time spent optimizing LLMs has deepened my
-appreciation for human evaluation more than ever before.
+Lately I’ve been working with LLMs for the past few months across every part of the technology stack: from low-level (pytorch and ggml) to abstraction and orchestration layers (LangChain, Llama Index); from OpenAI to Claude to Llama and back; from prompt engineering to agent planning; from development to deployment, and now I’m working on monitoring and evaluation, pretraining.
+
+I’ve also been talking with leaders across every part of the ecosystem: from the 10BedICU, OpenAI core team to futuristic indie projects at the AGI House to old-school businesses like Pratham Books who don’t even have a tech team that are desperate to use the technology.
+
+One thing stands out across the landscape: LLMs are a new kind of product that have new kinds of user behavior, business expectations, and engineering requirements. I want to talk about a specific comment I hear a lot of people talk about, and how it creates a symphony of confusion and opportunity for designers, operators and engineers to build great products.
 <!-- LIST:END -->
 ---
 ### 📕 My Latest Projects:
