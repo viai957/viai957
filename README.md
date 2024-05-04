@@ -19,7 +19,7 @@ appreciation for human evaluation more than ever before.
 ---
 ### 📕 My Latest Projects:
 <!-- LIST:START -->
-- [LexiGenesis ](LexiGenesis ) An repo to explain and understand how the evolution of LLM goes from pretraining -> finetuning -> benchmarking -> deplyment -> application development over it
+- [LexiGenesis ](LexiGenesis ) An repo to explain and understand how the evolution of LLM goes from pretraining -> finetuning -> benchmarking -> deployment -> application development over it
 <!-- LIST:END -->
 ---
 
