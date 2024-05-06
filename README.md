@@ -16,7 +16,7 @@ One thing stands out across the landscape: LLMs are a new kind of product that h
 ---
 ### 📕 My Latest Projects:
 <!-- LIST:START -->
-- [LexiGenesis ]([LexiGenesis](https://github.com/viai957/LexiGenesis) ) An repo to explain and understand how the evolution of LLM goes from pretraining -> finetuning -> benchmarking -> deployment -> application development over it
+- [LexiGenesis](https://github.com/viai957/LexiGenesis)  An repo to explain and understand how the evolution of LLM goes from pretraining -> finetuning -> benchmarking -> deployment -> application development over it
 <!-- LIST:END -->
 ---
 
